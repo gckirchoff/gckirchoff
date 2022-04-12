@@ -34,10 +34,6 @@ Spoken languages:
 - French
 - German
 
-
-
-Job status: Looking! I hope to one day be a valuable member of a dev team and to grow my skills alongside them.
-
 If you would like to contact me, please reach out to gckirchoff@gmail.com
 
 [![Gregory's Preferred Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gckirchoff&theme=cobalt&hide=scss,typescript,pug)](https://github.com/anuraghazra/github-readme-stats)
