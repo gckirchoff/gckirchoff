@@ -40,4 +40,6 @@ Job status: Looking! I hope to one day be a valuable member of a dev team and to
 
 If you would like to contact me, please reach out to gckirchoff@gmail.com
 
-[![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=gckirchoff)](https://github.com/gckirchoff/github-readme-stats)
+[![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=gckirchoff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Gregory's Preferred Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gckirchoff)](https://github.com/anuraghazra/github-readme-stats)
