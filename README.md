@@ -7,33 +7,30 @@ My tech stack:
 
 Front end:
 - React
-- SCSS
+- Svelte
 
 Back end:
 - Node
-- MongoDB
-- Postgres
+- Golang
+- Flask
+- Perl
+
+Data base:
+- SQL
+- NoSQL
 
 Data science:
 - Pandas
 - Matplotlib
 - Scikit learn
-
-Coming up:
-- Django
-- Anything that looks fun!
-
-Programming languages:
-- Javascript
-- Typescript
-- Python
-- SQL
+- Tensorflow
 
 Spoken languages:
 - English (native)
 - French
 - German
+- Japanese
 
 If you would like to contact me, please reach out to gckirchoff@gmail.com
 
-[![Gregory's Preferred Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gckirchoff&theme=cobalt&hide=scss,pug)](https://github.com/anuraghazra/github-readme-stats)
+[![Gregory's Preferred Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gckirchoff&theme=cobalt&hide=html,css,scss,pug)](https://github.com/anuraghazra/github-readme-stats)
