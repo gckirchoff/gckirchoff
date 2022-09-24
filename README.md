@@ -36,4 +36,4 @@ Spoken languages:
 
 If you would like to contact me, please reach out to gckirchoff@gmail.com
 
-[![Gregory's Preferred Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gckirchoff&theme=cobalt&hide=scss,typescript,pug)](https://github.com/anuraghazra/github-readme-stats)
+[![Gregory's Preferred Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gckirchoff&theme=cobalt&hide=scss,pug)](https://github.com/anuraghazra/github-readme-stats)
