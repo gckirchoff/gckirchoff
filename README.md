@@ -27,9 +27,9 @@ Data science:
 
 Spoken languages:
 - English (native)
-- French
-- German
-- Japanese
+- French (forgetting since high school)
+- German (forgetting since college)
+- Japanese (elementary proficiency)
 
 If you would like to contact me, please reach out to gckirchoff@gmail.com
 
