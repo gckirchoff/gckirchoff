@@ -2,7 +2,7 @@ Hello,
 
 My name is Gregory Kirchoff. I am a microbiology major from the University of Rochester, class of 2021. I have half a decade of clinical experience as a licensed EMT. I have also worked in a medical lab as a laboratory specimen processor during this time. My passion lies in creating innovative web apps, especially in the field of biology. There are so many areas in this field that can directly and indirectly benefit people all over through making services cheaper, more accessible, and of higher quality and efficiency.
 
-[Other github profile](https://github.com/gr-eggory)
+[Personal Site](https://www.evergreg.com/)
 
 
 My tech stack:
