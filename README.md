@@ -33,6 +33,4 @@ Spoken languages:
 - German (forgetting since college)
 - Japanese (elementary proficiency)
 
-If you would like to contact me, please reach out to gckirchoff@gmail.com
-
 [![Gregory's Preferred Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gckirchoff&theme=cobalt&hide=html,css,scss,pug)](https://github.com/anuraghazra/github-readme-stats)
