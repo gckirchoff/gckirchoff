@@ -34,4 +34,4 @@ Spoken languages:
 - German (forgetting since college)
 - Japanese (Not good enough to list in spoken languages)
 
-[![Gregory's Preferred Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gckirchoff&theme=cobalt&hide=html,css,scss,pug)](https://github.com/anuraghazra/github-readme-stats)
+[![Gregory's GitHub stats](https://github-stats-extended.vercel.app/api?username=gckirchoff)](https://github.com/stats-organization/github-stats-extended)
